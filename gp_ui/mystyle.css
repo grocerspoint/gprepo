@@ -1,0 +1,26 @@
+ .masthead{
+	width: 100%;
+	background-color: #027cd5;
+	line-height: 16px;
+	text-align: center;
+	
+}
+
+.masthead h1{
+	font-family: Comic Sans MS;
+	color: white;
+}
+
+.category{
+	width: 100%;
+    height: 25px;
+    background-color: #FFFAF0;
+    line-height: 16px;
+    text-align: center;
+    position: absolute;
+    top: 81px;
+    left: 0;
+	
+}
+
+

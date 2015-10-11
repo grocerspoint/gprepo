@@ -1,0 +1,50 @@
+.head-quick-links-info {
+	float: left;
+}
+.head-link-container {
+	float: right;
+	width: 50%;
+}
+.head-quick-links {
+	height: 12px;
+  font-size: 16px;
+  font-family: monospace;
+}
+.contact-info {
+ 	width: 16%;
+	background: url("telephone5.svg") no-repeat;
+	background-size: 14px 14px;
+	background-position: 6px 7px;
+}
+.login-info {
+ 	    width: 10%;
+    background: url("login.svg") no-repeat;
+    background-size: 14px 16px;
+    background-position: 0px 5px;
+}
+.quick-link {
+	display: inline-block;
+	padding: 5px;
+	text-align: right;
+}
+.delivery-slot {
+  background: url("logistics3.svg") no-repeat;
+  background-size: 25px;
+  background-position: -4px 1px;
+  width: 21%;
+}
+
+
+.navcontainer ul { list-style-type: none;
+margin: 0;
+padding: 0;}
+.navcontainer ul li { display: inline; 
+font-size: 18px;}
+.navcontainer ul li a { text-decoration: none;
+padding: .2em 1em;
+color: #1E90FF;
+
+ }
+
+
+
